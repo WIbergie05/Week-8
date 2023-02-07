@@ -48,5 +48,21 @@ th, td {
     background-color: lightcyan;
 }
 
+body {
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Avenir', sans-serif; 
+    color: #33475b;    
+  }
 
+  #shadow {
+    text-decoration-color: blue;
+    text-decoration: double, solid;
+    text-shadow: 15px, 15px;
+  }
+
+  /* p { font-family: Arial;
+    text-decoration-color: blue;
+/* } 
 
